@@ -1,0 +1,1 @@
+Simple stack made on java, you have to use netbeans to run this project 
